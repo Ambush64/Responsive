@@ -531,6 +531,10 @@ p{
 
 
 @media (max-width: 330px) {
+	*{
+		font-size: 30%;
+	}
+	
 	.testimonial-section .carousel-item{
 		padding: 13rem 3.125rem;
 	}
